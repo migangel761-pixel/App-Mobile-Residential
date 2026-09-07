@@ -1,0 +1,6 @@
+{
+  "name": "RecepControl",
+  "description": "Gestión y control de recibos residenciales para portería y residentes con fotografía, registro y notificaciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
